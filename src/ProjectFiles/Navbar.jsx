@@ -3,31 +3,29 @@ import "./Trivago.css";
 import { Link } from "react-router-dom";
 // import LoginPage from "./LoginPage";
 import trivagoLogo from '../images/trivago_logo.png'; // Import image
-const Navbar = () =>{
-    return(
-        <div> 
-            <div class="navbar">
-                <div class="navbar-logo">
-                    <div class="logo">
-                        <img src={trivagoLogo} alt="" id="trivagoo"/>
-                    </div>
+const Navbar = () => {
+    return (
+        <div>
+            <div className="navbar">
+                <div className="navbar-logo">
+                    <img src={trivagoLogo} alt="" id="trivagoo" />
                 </div>
-                <div class="nav-content">
-                    <div class="navfavorites">
-                        <i class="fa-regular fa-heart"></i>
+                <div className="nav-content">
+                    <div className="navfavorites">
+                        <i className="fa-regular fa-heart"></i>
                         Favorites
                     </div>
-                    <div class="navEn">
-                        <i class="fa-solid fa-globe"></i>
+                    <div className="navEn">
+                        <i className="fa-solid fa-globe"></i>
                         EN.₹
                     </div>
-                    <div class="navLogin">
-                        
-                        <i class="fa-regular fa-user"></i>
+                    <div className="navLogin">
+
+                        <i className="fa-regular fa-user"></i>
                         <Link to="/login">Log in</Link>
                     </div>
-                    <div class="navMenu">
-                        <i class="fa-solid fa-bars"></i>
+                    <div className="navMenu">
+                        <i className="fa-solid fa-bars"></i>
                         Menu
                     </div>
                 </div>

@@ -1,8 +1,9 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.navbar{
+
+.navbar {
     height: 60px;
     width: 100%;
     border: 1px solid black;
@@ -10,77 +11,77 @@
     justify-content: space-evenly;
     align-items: center;
 }
-.navbar-logo{
+
+.navbar-logo {
     height: 60px;
     width: 100px;
     display: flex;
     justify-content: flex-start;
-}
-.logoo img{
-    /* background-image: url(trivago_logo.png); */
-    background-size: cover;
-    background-position: 0%;
-    height: 60px;
-    width: 100px;
-    display: flex;
-    cursor: pointer;
     align-items: center;
-    justify-content: center;
-    
 }
-.nav-content{
+
+.nav-content {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.navfavorites{
+
+.navfavorites {
     height: 60px;
-    width:150px ;
+    width: 150px;
     font-size: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.navfavorites:hover{
+
+.navfavorites:hover {
     background-color: rgb(230, 231, 231);
 }
-.navEn{
+
+.navEn {
     height: 60px;
-    width:150px ;
+    width: 150px;
     font-size: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.navEn:hover{
+
+.navEn:hover {
     background-color: rgb(230, 231, 231);
 }
-.navLogin{
+
+.navLogin {
     height: 60px;
-    width:150px ;
+    width: 150px;
     font-size: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.navLogin:hover{
+
+.navLogin:hover {
     background-color: rgb(230, 231, 231);
 }
-.navMenu{
+
+.navMenu {
     height: 60px;
-    width:150px ;
+    width: 150px;
     font-size: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.navMenu:hover{
+
+.navMenu:hover {
     background-color: rgb(230, 231, 231);
 }
-.navbar i{
+
+.navbar i {
     padding-right: 10px;
 }
