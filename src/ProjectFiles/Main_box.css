@@ -1,0 +1,9 @@
+.image-box-main img{
+    margin-top: 60px;
+    height: 300px;
+    width: 100%;
+    
+    cursor: pointer;
+    /* background-image: url(searchimage.png); */
+    background-size: cover;
+}

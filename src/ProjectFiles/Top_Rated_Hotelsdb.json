@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Hotel Santa Marta",
+      "rating": "9.1 Excellent",
+      "reviews": "(11359)",
+      "location": "Goa, India",
+      "facilities": "Beach Pool Spa",
+      "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/16/0d/b4ebedc475b780bedf79352931e86e979962c95176494f0a826834b3bb85.jpeg",
+      "buttonText": "Check price"
+    },
+    {
+      "id": 2,
+      "name": "La Luna Blance",
+      "rating": "9.1 Excellent",
+      "reviews": "(61359)",
+      "location": "Bendrome",
+      "facilities": "Beach Pool Spa",
+      "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/bb/22/dbec09213f0b727d036f2b11a8c70afd38025e36711698edded455a6cebb.jpeg",
+      "buttonText": "Check price"
+    },
+    {
+      "id": 3,
+      "name": "Magic Natural Resort",
+      "rating": "9.1 Excellent",
+      "reviews": "(51359)",
+      "location": "Maldives",
+      "facilities": "Beach Pool",
+      "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/aa/a2/4dc7da48a9a8236d33d1521b89190f5fa379dffcb52edf53e8029f9512bf.jpeg",
+      "buttonText": "Check price"
+    }
+  ]
+   

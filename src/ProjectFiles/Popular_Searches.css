@@ -1,0 +1,73 @@
+.popular-headline{
+    height: 40px;
+    width: 100%;
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.popular-headline h2{
+    font-size: 25px;
+}
+
+.popular-deal-main-box{
+    height: 300px;
+    width: 100%;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.popular-deal-box{
+    height: 250px;
+    width: 20%;
+   border-top: 1px solid rgb(54, 52, 52);
+    border-radius: 8px;
+}
+.popular-deal-box-img5 img{
+    height: 150px;
+    width: 100%;
+    /* background-image: url(popular1.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+.popular-deal-box-img6 img{
+    height: 150px;
+    width: 100%;
+    /* background-image: url(popular2.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+.popular-deal-box-img7 img{
+    height: 150px;
+    width: 100%;
+    /* background-image: url(popular3.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+.popular-deal-box-img8 img{
+    height: 150px;
+    width: 100%;
+    /* background-image: url(popular4.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.popular-deal-box-headine{
+    
+    padding-left: 5px;
+    height: 50px;
+    width: 70%;
+}
+.popular-deal-box-headine h2{
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.popular-deal-box-headine #popular1{
+    margin-top: 8px;
+}
+.popular-deal-box-headine #popular2{
+    margin-top: 8px;
+}

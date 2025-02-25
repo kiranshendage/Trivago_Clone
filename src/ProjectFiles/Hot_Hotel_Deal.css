@@ -1,0 +1,91 @@
+.deals-headline{
+    height: 40px;
+    width: 100%;
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.deals-headline h2{
+    font-size: 25px;
+}
+
+/* ****************Deals Box******************* */
+.deal-main-box{
+    height: 500px;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.deal-box{
+    height: 400px;
+    width: 30%;
+    border: 0.5px solid rgb(0, 0, 0);
+    border-radius: 8px;
+}
+.deal-box-img img{
+    height: 200px;
+    width: 100%;
+    /* background-image: url(deal_box1.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+.deal-box-headine {
+    margin-top: 5px;
+    padding-left: 5px;
+    height: 50px;
+    width: 90%;
+}
+.deal-box-lower{
+    margin-top: 5px;
+    
+    height: 130px;
+    width: 90%;
+    
+    padding-left:5px;
+}
+.hotel-site{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.deal-about{
+    font-size: 15px;
+    font-weight: 700;
+}
+.deal-box-lower h2{
+    font-weight: 900;
+}
+.deal-button button{
+    height: 35px;
+    width: 90%;
+    margin-top: 7px;
+    margin-left: 8%;
+    background-color: rgb(52, 115, 250);
+    color: white;
+    font-weight: 800;
+    border-radius: 10px;
+    border: none;
+}
+.deal-box-img4 img{
+    height: 200px;
+    width: 100%;
+    /* background-image: url(hotdeal1.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+.deal-box-img5 img{
+    height: 200px;
+    width: 100%;
+    /* background-image: url(hotdeal2.png); */
+    background-size: cover;
+    border-radius: 8px;
+}
+.deal-box-img6 img{
+    height: 200px;
+    width: 100%;
+    /* background-image: url(hotdeal3.png); */
+    background-size: cover;
+    border-radius: 8px;
+}

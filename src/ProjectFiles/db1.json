@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "img": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/1b/d5/d6f6ce17bb454071ae1bc9255cae5d6528198864ac746ccff8f904e8970b.jpeg",
+      "name": "Deal 1",
+      "rating": "4.5",
+      "review": "200 Reviews",
+      "check": "Available",
+      "place": "New York",
+      "price": "5000"
+    },
+    {
+      "id": 2,
+      "img": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/0d/d3/778c85c15f367e7d8fa4211c8e54c6a5b16ef051f066639556bd1a727638.jpeg",
+      "name": "Deal 2",
+      "rating": "4.0",
+      "review": "150 Reviews",
+      "check": "Available",
+      "place": "Paris",
+      "price": "4500"
+    },
+    {
+      "id": 3,
+      "img": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/3b/65/e3b7a6e1af3917e086b6afd530d083daf6f318cd3b649eae5837ef4e81e6.jpeg",
+      "name": "Deal 3",
+      "rating": "4.8",
+      "review": "300 Reviews",
+      "check": "Not Available",
+      "place": "Tokyo",
+      "price": "6000"
+    }
+  ]
+  

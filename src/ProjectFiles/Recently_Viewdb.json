@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "location": "Pondicherry",
+      "dates": "2 Feb - 3 Feb",
+      "guests": "2 Guests, 1 Room",
+      "icon": "fa-solid fa-magnifying-glass"
+    },
+    {
+      "id": 2,
+      "location": "Kolkata",
+      "dates": "2 Feb - 3 Feb",
+      "guests": "2 Guests, 1 Room",
+      "icon": "fa-solid fa-magnifying-glass"
+    },
+    {
+      "id": 3,
+      "location": "Varanasi",
+      "dates": "2 Feb - 3 Feb",
+      "guests": "2 Guests, 1 Room",
+      "icon": "fa-solid fa-magnifying-glass"
+    },
+    {
+      "id": 4,
+      "location": "Kanchipuram",
+      "dates": "2 Feb - 3 Feb",
+      "guests": "2 Guests, 1 Room",
+      "icon": "fa-solid fa-magnifying-glass"
+    }
+  ]
+  

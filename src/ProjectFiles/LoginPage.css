@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-page{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+.first-box{
+    height: 600px;
+    width: 450px;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+}
+.first-box-upper{
+    height: 400px;
+    width: 100%;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+}
+.first-box-upper img{
+    height: 400px;
+    width: 100%;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+}
+.first-box-lower{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(228, 233, 233);
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.first-box-lower1{
+    height: 150px;
+    width: 80%;
+}
+.first-box-lower1 p{
+    margin-top: 5px;
+}
+
+/* ********************Second box********************* */
+
+.second-box{
+    height: 600px;
+    width: 400px;
+    margin-left: 40px;
+}
+.logo{
+    height: 50px;
+    width: 100%;
+}
+.logo img{
+    height: 36px;
+    width: 100%;
+}
+.Unlock{
+    
+    margin-top: 100px;
+}
+.login-text{
+    margin-top: 20px;
+}
+.login-text input{
+    height: 40px;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-size: 17px;
+    padding-left: 20px;
+}
+.login-text p{
+    font-weight: 700;
+}
+.login-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-button button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 43px;
+    width: 86%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(93, 93, 253);
+}
+.or{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.app{
+   background-color: white;
+   
+}
+.app .btn1{
+    height: 40px;
+    width: 100px;border: 2px solid rgb(0, 0, 0);
+    
+    border-radius: 8px;
+    margin-right: 15px;
+    background-color: white;
+}
+.app .btn1 img{
+    height: 28px;
+    width: 95px;
+    border-radius: 8px;
+}
+.app .btn2{
+    height: 40px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    margin-right: 15px;
+    background-color: white;
+}
+.app .btn2 img{
+    height: 25px;
+    width: 97px;
+    border-radius: 8px;
+}
+.app .btn3{
+    height: 40px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    margin-right: 15px;
+    background-color: white;
+}
+.app .btn3 img{
+    height: 25px;
+    width: 97px;
+    border-radius: 8px;
+}
+.footer{
+    margin-top: 20px;
+}

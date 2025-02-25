@@ -1,0 +1,133 @@
+.footer{
+    margin-top: 100px;
+    width: 100%;
+    
+    
+}
+.footer-main-content{
+    flex: 1; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.footer-main-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 66%;
+    margin-right: 20px;
+    
+    
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: black;
+}
+.first-line{
+    height: 50px;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.first-line-headline{
+    color: white;
+    text-align: start;
+    font-size: 25px;
+}
+/* .first-line-symbol{
+   padding-left: 10px;
+    text-align: end;
+    font-size: 20px;
+} */
+.first-line-symbol i{
+    padding-left: 5px;
+     text-align: end;
+     font-size: 20px;
+     border-radius: 50%;
+ }
+ .second-line{
+    margin-top: 50px;
+    width: 100%;
+   
+ }
+ .second-line select{
+    height: 40px;
+    width: 400px;
+    
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    font-size: 15px;
+ }
+ .last-main-block{
+    margin-top: 40px;
+    width: 100%;
+    height: 400px;
+    
+    display: flex;
+ }
+ .last-main-block-col1{
+    height: 400px;
+    width: 30%;
+    
+ }
+ .last-main-block-col1 p{
+    color: white;
+   padding-left: 15px;
+ }
+ .last-main-block-col2{
+    height: 400px;
+    width: 30%;
+    
+ }
+ .last-main-block-col2{
+    color: white;
+   padding-left: 15px;
+ }
+ 
+ .last-main-block-col3{
+    height: 400px;
+    width: 40%;
+    
+ }
+ .last-main-block-col3 h3{
+    color: white;
+ }
+ .subscribe{
+    margin-top: 40px;
+    height: 40px;
+    width: 100%;
+    
+    display: flex;
+ }
+ .subscribe input{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 65%;
+    border-bottom: 2px solid rgb(9, 46, 232);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-size: 15px;
+    padding-left: 25px;
+ }
+ .subscribe button{
+    height: 40px;
+    width: 30%;
+    background-color: rgb(2, 68, 183);
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+ }
+ .last{
+    margin-top: 20px;
+ }
+ .last p{
+    color: white;
+    font-size: 13px;
+ }

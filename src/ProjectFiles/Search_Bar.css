@@ -1,0 +1,248 @@
+.main-page{
+    margin-top: 60px;
+   display: flex;
+}
+.headline{
+    height: 80px;
+    width: 70%;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-content{
+    flex: 1; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 66%;
+    margin-right: 20px;
+    /* border: 2px solid rgb(253, 7, 7); */
+    /* height: 100vh; */
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+.search-bar-block {
+    width: 100%;
+    cursor: pointer;
+}
+.search-bar{
+    height: 50px;
+    width: 100%;
+    border: 2px solid rgb(0, 0, 0);
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.search-input{
+    height: 50px;
+    width: 30%;
+    border-right: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   border-top-left-radius:10px ;
+   border-bottom-left-radius:10px ;
+}
+
+.search-icon {
+    height: 50px;
+    width: 15%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.search-icon i{
+    font-size: 20px;
+}
+.input-bar {
+    height: 50px;
+    width: 85%;
+    
+    background-color: rgb(230, 238, 157);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.input-bar input{
+    height: 50px;
+    width: 100%;
+    border:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.cheakin-out{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 300px;
+    border-right: 1px solid black;
+}
+.date-symbol{
+    height: 50px;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.date-symbol i{
+    font-size: 25px;
+}
+.date-input{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    width: 300px;
+    border-radius: 8px;
+    
+}
+.date-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    
+}
+.date-icon small{
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-bar2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+   
+}
+.input-bar2 input{
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.input-bar2 input{
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.submit{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 400px;
+    border: none;
+}
+
+.friends-icon{
+    height: 50px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.friends-icon i{
+    font-size: 20px;
+    
+}
+.guest-input{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    height: 35px;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: px;
+    border-radius: 8px;
+}
+.guest-headline1{
+    display: flex;
+    height: 20px;
+}
+
+.guest-headline2{
+    height: 20px;
+    display: flex;
+    border: none;
+}
+.submit-icon{
+    height: 50px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.submit-icon input{
+    height: 35px;
+    width: 100px;
+    font-size: 17px;
+    background-color: rgb(67, 67, 249);
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.search-input:hover{
+    background-color: rgb(241, 243, 241);
+}
+.friends-icon:hover{
+    background-color: rgb(241, 243, 241);
+}
+.date-symbol:hover{
+    background-color: rgb(241, 243, 241);
+}
+.date-icon-out:hover{
+    background-color:rgb(241, 243, 241);
+}
+.guest-input:hover{
+    background-color: rgb(241, 243, 241);
+}
+.submit input:hover{
+    background-color: rgb(37, 4, 251);
+}
+.date-input:hover{
+    background-color:rgb(241, 243, 241);
+}
+.input-bar2:hover{
+    background-color:rgb(241, 243, 241);
+}
+.headline-block {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.heading1 h4 {
+    height: 50px;
+    width: 500px;
+    display: flex;
+    align-items: center;    
+}
